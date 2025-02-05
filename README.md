@@ -1,8 +1,6 @@
-# 悪用厳禁
+# iris実験
 本体
-```
-iris.py
-```
+- iris.py
 # ダウンロード方法
 1. 緑色「<> Code ∇」
 2. 「Download ZIP」
@@ -26,5 +24,5 @@ python3 -m pip install -r requirements.txt
 
 学習係数、重みを固定値で初期化しても結果は同じ
 
-2024.07.04
-2025.02.05 README.md 編集
+2024.07.04 作成  
+2025.02.05 編集
